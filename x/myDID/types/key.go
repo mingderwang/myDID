@@ -18,3 +18,7 @@ const (
 	PostPrefix = "post-"
 )
 		
+const (
+	UserPrefix = "user-"
+)
+		
