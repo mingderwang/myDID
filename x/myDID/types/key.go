@@ -22,3 +22,7 @@ const (
 	UserPrefix = "user-"
 )
 		
+const (
+	DidPrefix = "did-"
+)
+		

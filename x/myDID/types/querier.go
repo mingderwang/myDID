@@ -7,3 +7,6 @@ package types
 		const QueryListUser = "list-user"
 		const QueryGetUser = "get-user"
 		
+		const QueryListDid = "list-did"
+		const QueryGetDid = "get-did"
+		
